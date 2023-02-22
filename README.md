@@ -5,7 +5,7 @@ Made by alli-cpp
 The goal of this project is to create a game in 3D using raycasting ! The Maze Project is game which mimic 3D. It is inspired by the game Wolfenstein 3D.
 
 ## Installation
-### Get the Demo :
+### SOON
 
 
 ## Project Details
